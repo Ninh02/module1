@@ -2,11 +2,17 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson7-Bien-KDL-Toantu" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson7-Bien-KDL-Toantu/BT" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson7-Bien-KDL-Toantu/BT/Lesson7-Bien-KDL-Toantu" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson7-Bien-KDL-Toantu/Lesson7-Bien-KDL-Toantu" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson7-bien-kieuDuLieu-toanTu" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lessonn_6/Lesson6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson6/BT6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson6/Lesson6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ok/Lesson6" vcs="Git" />
   </component>
 </project>
